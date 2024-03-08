@@ -1,5 +1,4 @@
 # Here is a new update by Mike Trejo
-# Here is another update by Mike Trejo
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
